@@ -1,0 +1,14 @@
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\sqlite3.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\LeanCloudModel.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\LeanCloudModel.pdb
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\LeanCloudCommond.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\AVOSCloud.NetFx45.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\SQLite.Net.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\SQLite.Net.Async.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\websocket-sharp.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\SQLite.Net.Platform.Generic.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\LeanCloudCommond.pdb
+E:\workspace\LeanCloudTest\LeanCloudModel\obj\Debug\LeanCloudModel.csprojResolveAssemblyReference.cache
+E:\workspace\LeanCloudTest\LeanCloudModel\obj\Debug\LeanCloudModel.dll
+E:\workspace\LeanCloudTest\LeanCloudModel\obj\Debug\LeanCloudModel.pdb
+E:\workspace\LeanCloudTest\LeanCloudModel\bin\Debug\Newtonsoft.Json.dll

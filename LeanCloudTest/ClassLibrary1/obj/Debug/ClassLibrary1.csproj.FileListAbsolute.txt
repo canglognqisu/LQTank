@@ -1,0 +1,13 @@
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\AVOSCloud.NetFx45.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\SQLite.Net.Async.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\SQLite.Net.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\SQLite.Net.Platform.Generic.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\SQLite.Net.Platform.Win32.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\SQLiteNetExtensions.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\bin\Debug\websocket-sharp.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\workspace\LeanCloudTest\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\workspace\LeanCloudTest\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

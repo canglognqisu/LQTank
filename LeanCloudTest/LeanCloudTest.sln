@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCloudTest", "LeanCloudTest\LeanCloudTest.csproj", "{0951DF64-E7E0-41BB-B595-2E44F6C329FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCloudCommond", "ClassLibrary1\LeanCloudCommond.csproj", "{D9B0F9FE-D905-4B26-8FB7-4F8554DD4F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCloudModel", "LeanCloudModel\LeanCloudModel.csproj", "{C9BAA99E-1100-4AB1-88F5-AEAA7245954C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0951DF64-E7E0-41BB-B595-2E44F6C329FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0951DF64-E7E0-41BB-B595-2E44F6C329FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0951DF64-E7E0-41BB-B595-2E44F6C329FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0951DF64-E7E0-41BB-B595-2E44F6C329FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B0F9FE-D905-4B26-8FB7-4F8554DD4F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B0F9FE-D905-4B26-8FB7-4F8554DD4F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B0F9FE-D905-4B26-8FB7-4F8554DD4F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B0F9FE-D905-4B26-8FB7-4F8554DD4F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BAA99E-1100-4AB1-88F5-AEAA7245954C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BAA99E-1100-4AB1-88F5-AEAA7245954C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BAA99E-1100-4AB1-88F5-AEAA7245954C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BAA99E-1100-4AB1-88F5-AEAA7245954C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
